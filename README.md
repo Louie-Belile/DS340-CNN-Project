@@ -1,7 +1,6 @@
-# Repo for Sindhuja and Louie's Project 
 ### README for DS340-CNN-Project
 
-# DS340 CNN Project: Waste Classification Using Convolutional Neural Networks
+# DS340 CNN Project: Waste Classification Using Convolutional Neural Networks (WasteWise AI)
 
 This project focuses on building and fine-tuning a Convolutional Neural Network (CNN) to classify waste into three categories: **Food Waste**, **Mixed Recycling**, and **Trash**. The ultimate goal is to improve waste sorting systems and promote sustainability by leveraging machine learning. The repository includes the base model, experiments with data augmentation, fine-tuning techniques, and a prototype design for an intelligent trash disposal station.
 
@@ -19,15 +18,7 @@ DS340-CNN-Project/
 │   └── GAN.ipynb                  # Exploratory Data Analysis
 │   └── Experiments.ipynb    # Model building and fine-tuning
 │   └── synthetic_data.ipynb
-├── results/                       # Training results and visualizations
-│   ├── confusion_matrix.png       # Confusion matrix of test results
-│   ├── training_accuracy.png      # Training and validation accuracy plots
-│   └── training_loss.png          # Training and validation loss plots
-│
 ├── model_predictions.html         # Interactive HTML report of predictions
-│
-├── main.py                        # Script for running the model
-├── requirements.txt               # Python dependencies
 └── README.md                      # Project description and instructions
 ```
 
