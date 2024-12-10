@@ -85,3 +85,4 @@ Ensure you have the following installed on your system:
 ### Notes
 - The model achieves promising classification results, particularly in the underrepresented category of food waste, demonstrating the importance of addressing data imbalance.
 - Fine-tuning experiments highlight potential avenues for improving performance in future iterations.
+- Compressed Data can be found at this link -> https://drive.google.com/file/d/1mAlNb0658I-SeSv-pe9998w7bVPKi68u/view?usp=sharing
